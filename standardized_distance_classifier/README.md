@@ -1,5 +1,8 @@
 # Single-cell classifier
 
+## Authors
+Riccardo Panero
+Patrice Zeis
 ## Features of the classifier:
 
 * Uses peripheral retina as reference cell atlas
