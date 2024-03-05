@@ -1,7 +1,7 @@
 # Single-cell classifier
 
 ## Authors
-Riccardo Panero
+Riccardo Panero\
 Patrice Zeis
 ## Features of the classifier:
 
